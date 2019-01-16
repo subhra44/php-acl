@@ -1,4 +1,4 @@
-PHP ACL is basci ACL script written on PHP.
+PHP ACL is basic ACL script written on PHP.
 
 **Instructions**
 1. Clone the repository
