@@ -9,7 +9,7 @@ PHP ACL is basic ACL script written on PHP.
 ```
 composer install
 ```
-4. Refer the examples.php file for usage instructions
+6. Refer the examples.php file for usage instructions
 
 **System Requirements**
 
