@@ -3,8 +3,9 @@ PHP ACL is basic ACL script written on PHP.
 **Instructions**
 1. Clone the repository
 2. Create a db and import the db.sql file
-3. Copy the .env.example file to .env and adjust the variables
-4. Go to the project folder and install the dependencies using [composer](https://getcomposer.org/)
+3. Add all permissions to permissions table
+4. Copy the .env.example file to .env and adjust the variables
+5. Go to the project folder and install the dependencies using [composer](https://getcomposer.org/)
 ```
 composer install
 ```
