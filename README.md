@@ -9,9 +9,6 @@ PHP ACL is basci ACL script written on PHP.
 composer install
 ```
 4. Refer the examples.php file for usage instructions
-```
-php /path/to/the/project/extract-common-words.php
-```
 
 **System Requirements**
 
