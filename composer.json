@@ -1,0 +1,13 @@
+{
+    "name": "subhra44/acl",
+    "type": "library",
+    "description": "A simple PHP ACL class",
+    "keywords": [
+        "acl",
+        "access control list"
+    ],
+    "require": {
+        "php": "^7.1",
+        "vlucas/phpdotenv": "^3.1"
+    }
+}
